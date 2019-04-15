@@ -1,0 +1,10 @@
+.vs
+/obj/*
+/Library/*
+/Temp/*
+
+*.csproj
+*.userprefs
+*.sln
+*.ncrunchsolution
+*.v3
