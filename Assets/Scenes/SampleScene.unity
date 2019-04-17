@@ -222,8 +222,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Target: {fileID: 791831506}
   Smoothing: 0.6
-  MaxPosition: {x: 2.32, y: 8}
-  MinPosition: {x: -10.3, y: -2}
+  MaxPosition: {x: 10.46, y: 1.75}
+  MinPosition: {x: -1.25, y: -13.31}
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0
@@ -274,7 +274,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4.36, y: -6.08, z: -10}
+  m_LocalPosition: {x: 4.19, y: -6.41, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
